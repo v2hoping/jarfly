@@ -33,3 +33,7 @@ inputConfig.setPath("E:\\IDEAWorkspace\\WitParking.Demo-SpringBoot");
 IJaflyProcess iJaflyProcess = new JaflyProcess(inputConfig);
 iJaflyProcess.run();
 ```
+
+## 日志
+维护日志、未来工作的[日志记录](./LOG.md)
+
